@@ -14,7 +14,7 @@ The data cleanup script does the following:
 
 1. Download the data set, https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2. Unzip the data set into <your workspace>
-3. change the name of the folder to 'data'
+3. Change the name of the folder to 'data'
 
 ## Procedure
 
