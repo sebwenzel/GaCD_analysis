@@ -10,6 +10,12 @@ The data cleanup script does the following:
 4. Appropriately labels the data set with descriptive activity names. 
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
+## Preparation
+
+1. Download the data set, https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+2. Unzip the data set into <your workspace>
+3. change the name of the folder to 'data'
+
 ## Procedure
 
 1. For the test and train data setsit creates an interim dataset:
